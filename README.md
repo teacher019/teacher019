@@ -1,11 +1,11 @@
-# Hi 👋 I'm Abdul Khalek
+# Hi, I'm Abdul Khalek
 
-💻 Flutter App Developer | Python Developer | WordPress Theme Developer  
-📍 Bangladesh
+ Flutter App Developer | Python Developer | WordPress Theme Developer  
+ Bangladesh
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a passionate developer who enjoys building mobile apps, web applications, and automation tools.
 
@@ -65,7 +65,7 @@ I enjoy solving real-world problems through clean and efficient code.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teacher019&show_icons=true)
 
