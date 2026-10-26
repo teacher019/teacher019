@@ -18,7 +18,7 @@ I enjoy solving real-world problems through clean and efficient code.
 
 ---
 
-## 🛠 Technologies & Skills
+## Technologies & Skills
 
 ### Mobile Development
 - Flutter
@@ -40,7 +40,7 @@ I enjoy solving real-world problems through clean and efficient code.
 
 ---
 
-## 📱 Flutter Projects
+## Flutter Projects
 
 - Flutter Todo App
 - Flutter Weather App
@@ -73,7 +73,7 @@ I enjoy solving real-world problems through clean and efficient code.
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 GitHub: https://github.com/teacher019  
 
